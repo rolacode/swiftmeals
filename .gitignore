@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Docker volumes (optional)
+data/
+
+# OS files
+.DS_Store
